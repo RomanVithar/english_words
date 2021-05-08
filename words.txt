@@ -1,4 +1,4 @@
-7957
+7999
 a -- неопределенный артикль
 abandon -- отказываться, покидать, прекращать
 abandoned -- заброшенный !NEW!
@@ -192,6 +192,7 @@ album -- альбом
 alec -- Алек (TR!)
 alert -- бдительный, проворный
 alexis -- Алексис (TR!)
+alfred -- Альфред (TR!)
 alias -- Псевдоним (TR!)
 aliases -- Псевдонимы (TR!)
 alibi -- Алиби (TR!)
@@ -286,6 +287,7 @@ anniversary -- годовщина
 announce -- объявлять
 announced -- объявлял, объявленный (от announce)
 announcement -- объявление, сообщение
+annoy -- досаждать, надоедать
 annoyance -- Раздражение (TR!)
 annual -- годовой, ежегодный, ежегодник (не yearly)
 annually -- ежегодно
@@ -333,6 +335,7 @@ appeared -- появился (от appear)
 appears -- Появляется (TR!)
 appendix -- приложение, аппендикс (анат.)
 appetite -- аппетит, охота, желание
+applause -- аплодисменты
 apple -- яблоко
 apples -- яблоки (от apple)
 applet -- Апплет (TR!)
@@ -455,6 +458,7 @@ asterisk -- звездочка
 astonished -- удивленный !NEW!
 astonishing -- Удивительный -ing (TR!)
 astonishment -- удивление, изумление
+astronomy -- астрономия
 at -- в, у
 ate -- ел, съел (от eat)
 athlete -- спортсмен, атлет
@@ -760,6 +764,7 @@ biology -- биология
 birch -- береза, розга
 bird -- птица
 birth -- рождение
+birthday -- день рождения
 biscuit -- сухое печенье
 bishop -- епископ, слон (шахм.)
 bit -- кусочек, немного
@@ -794,6 +799,7 @@ blind -- слепой
 blink -- мерцание, отблеск, блеснуть, моргать b-
 blinked -- Мигал (TR!)
 bliss -- блаженство, счастье
+blizzard -- метель, пурга
 blob -- капля, комочек (не drop)
 blobs -- Капли (не drops) (TR!)
 block -- блок, квартал
@@ -961,6 +967,7 @@ buckwheat -- гречиха
 bud -- почка, бутон, давать почки, пускать ростки
 budge -- шевелиться
 buds -- почка, расцветать !NEW!
+buffalo -- буйвол
 buffer -- Буфер (TR!)
 bug -- клоп, насекомое, жук (амер.)
 bugs -- Ошибки(дефекты) (TR!)
@@ -1045,6 +1052,7 @@ cambridge -- Кембридж (TR!)
 came -- пришел (от come)
 camera -- фотоаппарат
 camp -- лагерь
+campaign -- компания, проводить кампанию
 can -- уметь, мочь
 cancel -- отменить, сократить
 candidate -- кандидат
@@ -1557,6 +1565,7 @@ contains -- Содержит (TR!)
 contemporary -- современный
 contempt -- презрение (не aversion)
 contend -- бороться, соперничать *o-
+content -- содержание
 contented -- Удовлетворенный (не satisfied) (TR!)
 contents -- содержание, содержимое, оглавление
 contest -- спор, соревнование, спорить
@@ -1716,6 +1725,7 @@ cross -- пересекать
 crossing -- переход, пересечение
 crouch -- притаиться
 crouched -- Присел (TR!)
+crow -- ворона
 crowd -- толпа, толпиться
 crowded -- многолюдный
 crown -- корона
@@ -1737,6 +1747,7 @@ cucumber -- огурец
 cucumbers -- огурцы (от cucumber)
 cuff -- наручники, лёгкий удар
 culprit -- обвиняемый, преступник (не accused)
+cultivate -- обрабатывать
 cultivated -- Выращенный (TR!)
 cultivation -- Культивирование (TR!)
 cunning -- хитрость, хитрый, коварный -ing
@@ -2193,6 +2204,7 @@ doubt -- сомнение, сомневаться
 doubted -- Подвергнутый сомнению (TR!)
 doubtful -- сомневающийся (полон сомнений)
 doubtless -- несомненно
+doubts -- Сомнения (TR!)
 dough -- тесто d-
 dove -- голубь
 down -- внизу, вниз
@@ -2391,6 +2403,7 @@ emerald -- изумруд
 emerge -- появляться, выясняться, возникать (не appear)
 emerged -- Появился (TR!)
 emergency -- крайняя необходимость e-
+eminent -- выдающийся
 emma -- Эмма (TR!)
 emotion -- возбуждение
 emotional -- эмоциональный
@@ -2457,6 +2470,7 @@ enter -- входить, поступать (enter)
 entered -- поступил (от enter)
 entering -- вступление e-
 enterprise -- предприятие, предприимчивость
+enterprising -- предприимчивый
 entertain -- развлекать, развлечь
 entertained -- Развлекал (TR!)
 entertainment -- развлечение
@@ -2692,6 +2706,7 @@ fashion -- мода
 fashionable -- модный
 fashioned -- Вылепленный (TR!)
 fast -- спешащий, сильно, быстро (fast)
+fasten -- прикреплять f-
 fastened -- Закрепленный (не attached) (TR!)
 faster -- быстрее
 fat -- жирный
@@ -2830,6 +2845,7 @@ flatter -- льстить
 flattering -- льстивый, лестный
 flavour -- вкус, аромат
 flaw -- изъян, недостаток (не lack)
+flax -- лен, льняное полотно
 flea -- блоха
 fled -- убегал, спасался бегством !NEW!
 flee -- бежать
@@ -3064,6 +3080,7 @@ garlic -- чеснок
 garment -- одежда, одеяние g-
 garments -- Предметы одежды (TR!)
 garret -- мансарда, чердак
+garrison -- гарнизон, ставить гарнизон
 gas -- газ
 gasoline -- газолин, бензин (амер.)
 gasp -- задыхаться (не pant)
@@ -3335,6 +3352,7 @@ harbour -- гавань
 hard -- с трудом, тяжело
 harden -- твердеть
 harder -- больше, упорнее (от hard)
+hardly -- едва (не barely, merely)
 hardship -- лишение
 hardworking -- трудолюбивый
 hare -- заяц
@@ -3626,6 +3644,7 @@ illuminate -- освещать
 illuminated -- Освещенный (TR!)
 illumination -- освещение
 illusion -- иллюзия
+illustration -- Иллюстрация (TR!)
 image -- изображение, образ, имидж
 imagination -- воображение
 imagine -- думать, воображать
@@ -3856,6 +3875,7 @@ introduce -- предстaвлять, знакомить
 introduction -- введение
 intrude -- вторгаться, вмешиваться, навязываться
 invade -- вторгаться
+invader -- захватчик
 invalid -- недействительный (не Illegal)
 invaluable -- неоценимый
 invariably -- неизменно
@@ -4375,6 +4395,7 @@ marquis -- Маркиз (TR!)
 marriage -- свадьба
 married -- женатый, замужняя
 marry -- жениться, выходить замуж
+marrying -- Бракосочетание -ing (TR!)
 marsh -- болото m-
 martial -- военный
 marvel -- удивляться, поражаться m-
@@ -4416,6 +4437,7 @@ meaning -- значение
 meaningless -- бессмысленный
 means -- средство, способ
 meant -- означаемый, подразумеваемый !NEW!
+meantime -- между тем
 meanwhile -- тем временем, между тем
 measles -- корь
 measure -- мера
@@ -4608,6 +4630,7 @@ mount -- взбираться m-
 mountain -- гора
 mourn -- сетовать
 mournful -- грустный
+mourning -- траур
 mouse -- мышь
 moustache -- усы
 mouth -- рот
@@ -4640,6 +4663,7 @@ murderer -- убийца
 murmur -- шорох, шепот m-
 muscle -- мышца
 muscles -- Мускулы (TR!)
+muscular -- мускулистый
 museum -- музей
 music -- музыка
 musical -- музыкальный, мюзикл
@@ -4648,6 +4672,7 @@ must -- должен, надо
 mute -- немой (не dumb)
 mutiny -- мятеж, поднять мятеж
 mutter -- бормотать
+muttered -- Бормотал (TR!)
 muttering -- Бормотание -ing (TR!)
 mutton -- баранина
 mutual -- взаимный, общий (не common)
@@ -4843,6 +4868,7 @@ occasional -- случайный
 occasionally -- изредка
 occasioned -- Причиняемый (TR!)
 occupation -- занятие
+occupied -- занятый !NEW!
 occupy -- занимать, завоёвывать
 occur -- случаться
 occurrence -- Возникновение (TR!)
@@ -5143,6 +5169,7 @@ perfume -- духи
 perhaps -- возможно, может быть
 peril -- опасность
 perilous -- опасный, рискованный
+period -- период
 periodic -- периодический
 periods -- Периоды (TR!)
 permanent -- постоянный
@@ -5266,6 +5293,7 @@ playwright -- драматург
 pleaded -- Умолял (TR!)
 pleasant -- приятный
 pleasantly -- приятно !NEW!
+please -- пожалуйста (только в просьбе)
 pleased -- довольный
 pleasure -- удовольствие
 plenty -- изобилие, избыток, вполне, довольно
@@ -5449,6 +5477,7 @@ prince -- принц
 princess -- Принцесса (TR!)
 principal -- главный, основной, важнейший p-
 principle -- принцип
+principles -- Принципы (TR!)
 print -- печатать, напечатать
 printing -- печатание
 prior -- прежний
@@ -5794,6 +5823,7 @@ relations -- отношения, связи (от relation)
 relationship -- родственные связи
 relative -- родственник
 relax -- ослаблять
+relay -- смена (не shift)
 release -- освобождение, освобождать
 released -- освобожденный
 reliable -- надежный
@@ -5896,6 +5926,7 @@ resource -- ресурс, средство
 resources -- Ресурсы (TR!)
 respect -- уважение, уважать
 respectable -- почтенный, порядочный
+respected -- Уважаемый (TR!)
 respectful -- почтительный
 respective -- соответственный
 respectively -- соответственно
@@ -5960,6 +5991,7 @@ riddle -- загадка (не enigma)
 ride -- езда, прогулка (не пешая), ехать (на поезде, велосипеде и т.п.)
 rider -- наездник, всадник
 ridge -- горный хребет, гребень (горы и т.п.) (не crest)
+ridiculous -- нелепый, смехотворный, смешной
 riding -- еду (от ride), верховая езда
 rifle -- ружье, винтовка
 rift -- трещина, щель, ущелье
@@ -6010,6 +6042,7 @@ romantic -- романтичный
 rome -- Рим (TR!)
 ron -- Рон (TR!)
 roof -- крыша
+room -- комната
 rooms -- комнаты (от room)
 root -- корень
 rope -- канат
@@ -6027,6 +6060,7 @@ roused -- Разбуженный (не awoken) (TR!)
 route -- маршрут, путь, направлять
 rover -- скиталец, странник
 row -- грести
+rowing -- гребля, выговор
 royal -- королевский (не queen)
 rpm -- Оборот в минуту (TR!)
 rub -- тереть, стирать, трение
@@ -6236,6 +6270,7 @@ sentiment -- настроение
 sentiments -- Чувства (TR!)
 separate -- отдельный
 separated -- Отделенный (TR!)
+separation -- отделение, разделение
 September -- сентябрь
 sequel -- продолжение, результат
 sequence -- последовательность
@@ -6927,6 +6962,7 @@ supplement -- добавление
 supplied -- Снабженный (TR!)
 supplies -- Запасы(поставки) (TR!)
 supply -- снабжать
+support -- поддерживать, опора, поддержка
 supported -- Поддержанный (TR!)
 supporter -- сторонник
 supporting -- опорный -ing
@@ -7078,6 +7114,7 @@ tenderly -- нежно, мягко !NEW!
 tenderness -- нежность !NEW!
 tennis -- теннис
 tense -- время (грам.)
+tent -- палатка
 tentacles -- Щупальца (TR!)
 tentative -- предварительный, предполагаемый; умозрительный, не вполне определенный
 tenth -- десятый
@@ -7265,6 +7302,7 @@ tortoise -- черепаха
 torture -- пытать, пытка (не attempt)
 toss -- толчок, сотрясение, кидать, бросать
 total -- сумма, весь, полный t-
+totally -- полностью
 touch -- соприкосновение, контакт
 touching -- трогательный -ing
 tough -- жесткий
@@ -7898,10 +7936,12 @@ worlds -- Миры (TR!)
 worm -- червь, глист, ничтожество (перен.)
 worn -- потёртый, изношенный !NEW!
 worry -- беспокоиться
+worse -- хуже (от bad)
 worship -- поклоняться (не regards)
 worst -- наихудший
 worth -- стоящий, заслуживающий
 worthless -- ничего не стоящий, дрянной
+worthy -- достойный
 would -- вспомогательный, модальный глагол (от will)
 wound -- рана
 wounded -- раненый
@@ -7956,3 +7996,5 @@ zero -- ноль
 zigzag -- Зигзаг (TR!)
 zinc -- цинк, цинковый, оцинковывать
 zone -- зона
+zoo -- зоопарк
+zoological -- Зоологический (TR!)
