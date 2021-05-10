@@ -8,15 +8,15 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+  <link rel="shortcut icon" href="{{ url_for('static',filename='images/icons/favicon.ico')}}" type="image/x-icon">
   <!-- Bootstrap -->
   <link href="{{ url_for('static',filename='css/bootstrap.min.css')}}" rel="stylesheet" type="text/css">
   <link href="{{ url_for('static',filename='css/font-awesome.min.css')}} " rel="stylesheet" type="text/css">
   <link href="{{ url_for('static',filename='css/templatemo_misc.css')}} " rel="stylesheet" type="text/css">
   <link href="{{ url_for('static',filename='css/templatemo_style.css')}} " rel="stylesheet" type="text/css">
   <link href='http://fonts.googleapis.com/css?family=Raleway:400,100,600' rel='stylesheet' type='text/css'>
-  <link href="{{ url_for('static',filename='css/index.css')}} " rel="stylesheet" type="text/css">
 
-  
+  <link href="{{ url_for('static',filename='css/index.css')}} " rel="stylesheet" type="text/css">
 </head>
 
 <body>
@@ -43,7 +43,8 @@
             </a>
           </div> <!-- /.col-md-12 -->
           <div class="col-md-3 col-sm-12">
-            <a href="#"><img src="{{ url_for('static', filename='images/templatemo_logo.jpg') }}" alt="Polygon HTML5 Template"></a>
+            <a href="#"><img src="{{ url_for('static', filename='images/templatemo_logo.jpg') }}"
+                alt="Polygon HTML5 Template"></a>
           </div>
           <div class="col-md-9 main_menu">
             <ul>
@@ -68,34 +69,33 @@
   <div id="menu-container">
     <!-- gallery start -->
     <div class="content homepage" id="menu-1">
-        <!-- content -->
-        <div class="container">
-          <div class="col-sm templatemo_servicetxt">
+      <!-- content -->
+      <div class="container">
+        <div class="col-sm templatemo_servicetxt">
 
-            <h1 class="wordsHeader">Ваши слова на сегодня: </h1>
-            <ol class="listWords">
-              {% for item in words %}
-              <li>
-                <div id="listWords"> {{' ' + item}} </div>
-              </li>
-              {%endfor%}
-            </ol>
-            <br>
+          <h1 class="wordsHeader">Ваши слова на сегодня: </h1>
+          <ol class="listWords">
+            {% for item in words %}
+            <li>
+              <div> {{' ' + item}} </div>
+            </li>
+            {%endfor%}
+          </ol>
+          <br>
 
-            <h3>Вас устраивают эти слова?</h3>
+          <h3>Вас устраивают эти слова?</h3>
 
-            <form method="POST" class="submitYN">
-              <input type="submit" name="btn" id="btn" class="btn btn-primary btn-lg" value="Да">
-              <input type="submit" name="btn" id="btn" class="btn btn-secondary btn-lg" value="Нет">
-            </form>
-            <div class="progress" style="height: 20px" ;>
-              <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar"
-                style="width: 30%">
-                <b> Прогресс изучения слов: {колличество}/8000</b>
-              </div>
+          <form method="POST" class="submitYN">
+            <input type="submit" name="btn" id="btn" class="btn btn-primary btn-lg" value="Да">
+            <input type="submit" name="btn" id="btn" class="btn btn-secondary btn-lg" value="Нет">
+          </form>
+          <div class="progress" style="height: 20px" ;>
+            <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 30%">
+              <b> Прогресс изучения слов: {колличество}/8000</b>
             </div>
           </div>
         </div>
+      </div>
     </div>
     <!-- gallery end -->
     <div class="clear"></div>
@@ -103,7 +103,39 @@
     <div class="content team" id="menu-2">
       <div class="templatemo_ourteam">
         <!-- content -->
-        <h3>Second page</h3>
+        <h3>Таблица времён simple:</h3>
+        <div class="container">
+          <div class="col-sm">
+            <table class="table table-dark table-simple" border="4">
+              <thead>
+                <tr>
+                  <th scope="col"></th>
+                  <th scope="col">Вопрос</th>
+                  <th scope="col">Утверждение</th>
+                  <th scope="col">Отрицание</th>
+                </tr>
+              </thead>
+              <tr>
+                <th scope="row">Will</th>
+                <td>I,you,we, they, he, she love?</td>
+                <td>I,you,we, they, he, she will love?</td>
+                <td>I,you,we, they, he, she will not love?</td>
+              </tr>
+              <tr>
+                <th scope="row">Do Does</th>
+                <td>I,you,we, they, he, she love?</td>
+                <td>I,you,we, they, he, she love/loves?</td>
+                <td>I,you,we, they, he, she don't/doesn't love?</td>
+              </tr>
+              <tr>
+                <th scope="row">Did</th>
+                <td>I,you,we, they, he, she love?</td>
+                <td>I,you,we, they, he, she loved?</td>
+                <td>I,you,we, they, he, she did not love?</td>
+              </tr>
+            </table>
+          </div>
+        </div>
       </div>
     </div>
     <!--team end-->

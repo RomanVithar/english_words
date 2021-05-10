@@ -5,3 +5,22 @@
 .progress b {
     color: black;
 }
+
+.listWords {
+	font-size: 17px;
+	margin-left: 50pt;
+    background: url(../images/icons/icon_original.png) no-repeat;
+    background-position: center;
+}
+.submitYN {
+	text-align: center;
+}
+.wordsHeader {
+	text-align: center;
+}
+
+.table-simple {
+   margin-left: auto;
+   margin-right: auto;
+   font-size: 13pt;
+}

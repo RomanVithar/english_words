@@ -736,13 +736,5 @@ and (max-width : 559px)	{
 .homepage	{ display: block; }
 .leftalign	{ float: left; }
 
-.listWords {
-	font-size: 17px;
-	margin-left: 50pt;
-}
-.submitYN {
-	text-align: center;
-}
-.wordsHeader {
-	text-align: center;
-}
+
+
