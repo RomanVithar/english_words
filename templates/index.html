@@ -1,42 +1,165 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>English Words</title>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-    <link rel="stylesheet" href="css/index.css">
-    </head>
-<body>
-    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-    <div class="container">
-        <div class="row">
-            <div class="col-sm">
-                <h1>Ваши слова на сегодня: </h1> 
-                <ol>
-                {% for item in words %}
-                    <li>{{' ' + item}}</li>
-                {%endfor%}
-                </ol>                    
-                <br>
-                <p>Вас устраивают эти слова?</p>
 
-                <form method="POST">
-                    <input type="submit" name="btn" id="btn" class="btn btn-primary btn-lg" value="Да">
-                    <input type="submit" name="btn" id="btn" class="btn btn-secondary btn-lg" value="Нет">
-                </form>
-                <br>
-                <p>Прогресс изучения слов</p>
-                <div class="progress" style="height: 20px";>
-                    <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 30%">
-                        <b>{колличество}/8000</b>
-                    </div>
-                </div>
+<head>
+  <title>English learning</title>
+  <meta name="keywords" content="" />
+  <meta name="description" content="" />
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Bootstrap -->
+  <link href="{{ url_for('static',filename='css/bootstrap.min.css')}}" rel="stylesheet" type="text/css">
+  <link href="{{ url_for('static',filename='css/font-awesome.min.css')}} " rel="stylesheet" type="text/css">
+  <link href="{{ url_for('static',filename='css/templatemo_misc.css')}} " rel="stylesheet" type="text/css">
+  <link href="{{ url_for('static',filename='css/templatemo_style.css')}} " rel="stylesheet" type="text/css">
+  <link href='http://fonts.googleapis.com/css?family=Raleway:400,100,600' rel='stylesheet' type='text/css'>
+  <link href="{{ url_for('static',filename='css/index.css')}} " rel="stylesheet" type="text/css">
+
+  
+</head>
+
+<body>
+  <script src="{{ url_for('static', filename='js/jquery-1.10.2.min.js') }}" type="text/javascript"></script>
+  <script src="{{ url_for('static', filename='js/jquery.lightbox.js') }}" type="text/javascript"></script>
+  <script src="{{ url_for('static', filename='js/templatemo_custom.js') }}" type="text/javascript"></script>
+  <script src="{{ url_for('static', filename='js/index.js') }}" type="text/javascript"></script>
+
+  <div class="site-header">
+    <div class="main-navigation">
+      <div class="responsive_menu">
+        <ul>
+          <li><a class="show-1 templatemo_home" href="#">Words</a></li>
+          <li><a class="show-2 templatemo_page2" href="#">Grammar</a></li>
+          <li><a class="show-3 templatemo_page3" href="#">Translator</a></li>
+          <li><a class="show-5 templatemo_page5" href="#">Registration</a></li>
+        </ul>
+      </div>
+      <div class="container">
+        <div class="row templatemo_gallerygap">
+          <div class="col-md-12 responsive-menu">
+            <a href="#" class="menu-toggle-btn">
+              <i class="fa fa-bars"></i>
+            </a>
+          </div> <!-- /.col-md-12 -->
+          <div class="col-md-3 col-sm-12">
+            <a href="#"><img src="{{ url_for('static', filename='images/templatemo_logo.jpg') }}" alt="Polygon HTML5 Template"></a>
+          </div>
+          <div class="col-md-9 main_menu">
+            <ul>
+              <li><a class="show-1 templatemo_home" href="#">
+                  <span class="fa fa-home"></span>
+                  Words</a></li>
+              <li><a class="show-2 templatemo_page2" href="#">
+                  <span class="fa fa-book fa-2x fa-inverse"></span>
+                  Grammar</a></li>
+              <li><a class="show-3 templatemo_page3" href="#">
+                  <span class="fa fa-refresh fa-spin fa-3x fa-fw"></span>
+                  Translator</a></li>
+              <li><a class="show-5 templatemo_page5" href="#">
+                  <span class="fa fa-user" aria-hidden="true"></span>
+                  Registration</a></li>
+            </ul>
+          </div> <!-- /.col-md-12 -->
+        </div> <!-- /.row -->
+      </div> <!-- /.container -->
+    </div> <!-- /.main-navigation -->
+  </div> <!-- /.site-header -->
+  <div id="menu-container">
+    <!-- gallery start -->
+    <div class="content homepage" id="menu-1">
+        <!-- content -->
+        <div class="container">
+          <div class="col-sm templatemo_servicetxt">
+
+            <h1 class="wordsHeader">Ваши слова на сегодня: </h1>
+            <ol class="listWords">
+              {% for item in words %}
+              <li>
+                <div id="listWords"> {{' ' + item}} </div>
+              </li>
+              {%endfor%}
+            </ol>
+            <br>
+
+            <h3>Вас устраивают эти слова?</h3>
+
+            <form method="POST" class="submitYN">
+              <input type="submit" name="btn" id="btn" class="btn btn-primary btn-lg" value="Да">
+              <input type="submit" name="btn" id="btn" class="btn btn-secondary btn-lg" value="Нет">
+            </form>
+            <div class="progress" style="height: 20px" ;>
+              <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar"
+                style="width: 30%">
+                <b> Прогресс изучения слов: {колличество}/8000</b>
+              </div>
             </div>
+          </div>
         </div>
     </div>
+    <!-- gallery end -->
+    <div class="clear"></div>
+    <!-- team start -->
+    <div class="content team" id="menu-2">
+      <div class="templatemo_ourteam">
+        <!-- content -->
+        <h3>Second page</h3>
+      </div>
+    </div>
+    <!--team end-->
+    <div class="clear"></div>
+    <!-- service start -->
+    <div class="content services" id="menu-3">
+      <div class="container">
+        <!-- content -->
+        <h3>Third page</h3>
+      </div>
+    </div>
+    <!-- service end -->
+    <!-- contact start -->
+    <div class="content contact" id="menu-5">
+      <div class="container">
+        <div class="row">
+          <!-- content     -->
+          <h3>Fourth page</h3>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- contact end -->
+  <!-- footer start -->
+  <div class="templatemo_footer">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-9 col-sm-12">
+          <span>Copyright &copy; 2014 Company Name | Design: ____</span>
+        </div>
+        <div class="col-md-3 col-sm-12 templatemo_rfooter">
+          <a href="#">
+            <div class="hex_footer">
+              <span class="fa fa-facebook"></span>
+            </div>
+          </a>
+          <a href="#">
+            <div class="hex_footer">
+              <span class="fa fa-twitter"></span>
+            </div>
+          </a>
+          <a href="#">
+            <div class="hex_footer">
+              <span class="fa fa-linkedin"></span>
+            </div>
+          </a>
+          <a href="#">
+            <div class="hex_footer">
+              <span class="fa fa-rss"></span>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- footer end -->
 </body>
+
 </html>
