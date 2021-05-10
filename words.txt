@@ -1,4 +1,4 @@
-7916
+7999
 a -- неопределенный артикль
 abandon -- отказываться, покидать, прекращать
 abandoned -- заброшенный !NEW!
@@ -94,6 +94,7 @@ additions -- Дополнения (TR!)
 address -- адрес, обращение
 adept -- знаток, сторонник
 adequate -- достаточный, соответствующий
+adhere -- прилипать, приставать ( to) , приклеиваться, хвататься
 adjoining -- Смежный -ing (TR!)
 adjust -- регулировать, приспосабливать
 adjustment -- регулирование *d-
@@ -280,6 +281,7 @@ animal -- животное
 animated -- оживленный, анимированный
 ankle -- щиколотка, лодыжка
 anna -- Анна (TR!)
+anne -- Энн (TR!)
 annihilation -- уничтожение
 anniversary -- годовщина
 announce -- объявлять
@@ -288,6 +290,7 @@ announcement -- объявление, сообщение
 annoy -- досаждать, надоедать
 annoyance -- Раздражение (TR!)
 annual -- годовой, ежегодный, ежегодник (не yearly)
+annually -- ежегодно
 anomaly -- аномалия
 anonymous -- анонимный
 another -- еще один, другой
@@ -308,6 +311,7 @@ anxious -- беспокойный *n-
 anxiously -- тревожно !NEW!
 anyhow -- во всяком случае
 anyone -- любой, всякий( утв предлож), кто-нибудь, никто (в отриц предлож) !NEW!
+anyway -- во что бы то ни стало
 anywhere -- где-нибудь !NEW!
 apart -- в стороне, отдельно (не aside)
 apartment -- квартира
@@ -377,6 +381,7 @@ arguments -- Аргументы(споры) (TR!)
 arid -- сухой, засушливый
 arise -- возникать, появляться
 arithmetic -- арифметика
+arm -- рука
 armament -- вооружение
 armed -- вооруженный
 armies -- Армии (TR!)
@@ -542,6 +547,7 @@ baby -- ребенок
 back -- спина, назад
 backed -- Поддержанный (TR!)
 background -- фон, задний план
+backs -- Задние части b- (TR!)
 backup -- Резервный *a- (TR!)
 backward -- назад, обратно, наоборот
 backwards -- Назад (TR!)
@@ -918,7 +924,9 @@ bride -- невеста
 bridge -- мост
 bridle -- узда, повод, взнуздывать
 brief -- короткий, сводка, резюме
+briefcase -- портфель
 briefly -- кратко, сжато
+brigade -- бригада
 bright -- ясный
 brightly -- Ярко (TR!)
 brilliance -- блеск, великолепие, яркость (не brightness)
@@ -930,6 +938,7 @@ brisk -- живой, проворный b-
 Britain -- Британия
 British -- британский
 brittle -- хрупкий, ломкий (не fragile)
+broad -- широкий
 broadcast -- передача по радио
 broadcasting -- радиовещание
 broadly -- широко
@@ -1091,8 +1100,10 @@ carlos -- Карлос (TR!)
 carpenter -- плотник
 carpet -- ковер, устилать
 carriage -- вагон
+carrier -- носильщик, транспортное средство
 carrot -- морковь
 carry -- нести, носить, возить
+carrying -- перевозка
 cart -- телега, повозка
 carter -- возчик; ломовой извозчик !NEW!
 carton -- коробка
@@ -1109,6 +1120,8 @@ cat -- кошка
 catch -- уловить, понять, получить нагоняй
 catching -- Ловля (TR!)
 cathedral -- собор
+catherine -- Кэтрин (TR!)
+cats -- Коты (TR!)
 cattle -- (рогатый) скот
 caught -- ловил !NEW!
 cauldron -- Котел (TR!)
@@ -1210,6 +1223,7 @@ chestnut -- каштан
 chevy -- охота, погоня, гнаться (не chase)
 chew -- жевать
 chicken -- цыпленок, кура
+chief -- шеф, начальник
 chiefly -- главным образом
 child -- ребенок
 childhood -- детство
@@ -1271,6 +1285,7 @@ class -- класс (не grade)
 classes -- занятия, уроки -- не lessons
 classic -- классический
 classroom -- класс
+clatter -- стук, звон; стучать, греметь
 clause -- предложение, статья
 claw -- коготь, клешня
 clay -- глина, земля
@@ -1415,6 +1430,7 @@ comparison -- сравнение
 compartment -- купе
 compass -- объем, диапазон; компас; циркуль
 compassion -- жалость, сострадание !NEW!
+compatibility -- совместимость !NEW!
 compelled -- Вынужденный (TR!)
 compete -- состязаться, конкурировать
 competition -- соревнование
@@ -1676,6 +1692,7 @@ create -- создавать
 created -- Созданный (TR!)
 creating -- Создание -ing (TR!)
 creation -- создание (похоже на creature)
+creator -- творец, создатель, автор
 creature -- творение, создание
 creatures -- Существа (TR!)
 credentials -- верительные грамоты, рекомендация
@@ -1805,6 +1822,7 @@ data -- данные, факты
 database -- База данных (TR!)
 databases -- Базы данных (TR!)
 date -- дата
+dates -- даты (от date)
 daughter -- дочь
 daughters -- дочери (от daughter)
 david -- Дэвид (TR!)
@@ -1896,6 +1914,7 @@ delicious -- восхитительный, прелестный, вкусный 
 delight -- восхищение, восхищаться
 delighted -- восхищался (от delight)
 delightful -- восхитительный (не marvellous)
+delirium -- бред
 deliver -- доставлять, передавать
 deliverance -- освобождение, избавление
 delivered -- доставил (от deliver)
@@ -1936,6 +1955,7 @@ depths -- Глубины (TR!)
 deputy -- депутат, делегат
 derisive -- насмешливый, иронический (не ironical)
 derived -- Полученный (TR!)
+des -- Дес (TR!)
 descend -- спускаться
 descendant -- потомок
 descended -- Спускался (TR!)
@@ -2051,6 +2071,8 @@ dirty -- грязный
 disable -- делать непригодным (не destroy)
 disabled -- искалеченный, выведенный из строя
 disadvantage -- неудобство
+disagreeable -- неприятный
+disappear -- исчезать, исчезнуть
 disappearance -- исчезновение !NEW!
 disappeared -- изчезнувший !NEW!
 disappearing -- Исчезновение -ing (TR!)
@@ -2277,6 +2299,7 @@ dysentery -- дизентерия
 each -- каждый
 eager -- нетерпеливый
 eagerly -- охотно (не willing)
+eagerness -- пыл, рвение, желание
 eagle -- орел
 ear -- ухо
 earl -- граф !NEW!
@@ -2288,6 +2311,7 @@ earnest -- серьезный e-
 earnestly -- Искренне (не sincerely) (TR!)
 earnestness -- Серьезность (не seriousness) (TR!)
 earth -- земля
+earthquake -- землетрясение
 ease -- покой, непринужденность e-
 easel -- мольберт
 easier -- Более легкий (TR!)
@@ -2303,6 +2327,7 @@ eating -- прием пищи, еда (-ing)
 ebb -- отлив, убывать
 echo -- эхо, отголосок
 economical -- бережливый, экономный
+edge -- край, точить
 edible -- съедобный
 edinburgh -- Эдинбург (TR!)
 edit -- редактировать
@@ -2599,6 +2624,7 @@ exploration -- исследование
 explore -- исследовать
 explosion -- взрыв, вспышка
 explosive -- взрывчатый, взрывчатое вещество -ve
+export -- экспорт, экспортировать
 expose -- выставлять, подвергать, разоблачать
 exposed -- Выставленный(подвергнутый) (TR!)
 exposure -- Подвергание (TR!)
@@ -2760,6 +2786,7 @@ file -- картотека
 files -- Файлы (TR!)
 fill -- заполнить, наполнить
 filling -- заполнение, наполнение
+film -- фотопленка, фильм
 filter -- фильтр; фильтровать, просачиваться
 fin -- плавник
 final -- окончательный
@@ -2808,6 +2835,7 @@ flaming -- Пылающий -ing (TR!)
 flank -- фланг
 flannel -- фланель
 flap -- развеваться, взмахивать (крыльями); взмах (крыльев), клапан
+flare -- вспыхивать; вспышка, осветительная ракета (не flash)
 flash -- вспышка, сверкать
 flashlight -- карманный фонарь !NEW!
 flashlights -- Прожектора (TR!)
@@ -2939,6 +2967,7 @@ fought -- сражался !NEW!
 foul -- загрязненный, грязный, бесчестный
 found -- нашел, найденный (от find)
 foundation -- основание
+fountain -- источник, фонтан
 four -- четыре
 fourteen -- четырнадцать
 fourteenth -- четырнадцатый
@@ -3065,6 +3094,7 @@ gave -- дал (от give)
 gay -- веселый g-
 gaze -- пристально глядеть, пристальный взгляд g-
 gear -- механизм
+gem -- драгоценный камень
 gene -- ген
 general -- общий
 generally -- вообще, обычно
@@ -3308,6 +3338,7 @@ handy -- удобный; ловкий, искусный (h-)
 hang -- повесить, висеть
 hanging -- подвешивание
 hanky -- носовой платок !NEW!
+hannah -- Ханна (TR!)
 hans -- Ханьшуй (TR!)
 happen -- случаться, происходить
 happened -- случился (от happen)
@@ -3407,6 +3438,7 @@ hell -- черт
 hello -- привет
 helm -- руль
 helmet -- шлем, каска
+help -- помощь, помогать
 helped -- помогал (от help)
 helpful -- полезный h-
 helping -- помощь
@@ -3457,6 +3489,7 @@ hint -- намек, намекать
 hip -- ягода шиповника
 hire -- взять напрокат
 his -- его (-s)
+hiss -- свистеть, шипеть, свист
 hissed -- шипящий (-ed) !NEW!
 hist -- тише!, тс! (TR!)
 historic -- исторический
@@ -3477,6 +3510,7 @@ hoist -- поднимать (флаг, парус)
 hold -- держать(ся), выдерживать, захват, владение
 holder -- владелец, ручка, рукоятка
 holding -- удерживание, держащий (от hold)
+holds -- Держится (TR!)
 hole -- отверстие, яма
 holes -- Отверстия (TR!)
 holiday -- отпуск, праздник
@@ -3649,6 +3683,7 @@ impression -- впечатление
 impressive -- впечатляющий -ve
 imprison -- заключать в тюрьму
 improbable -- невероятный
+improve -- улучшать
 improved -- улучшил (от improve)
 improvement -- улучшение
 improvements -- Усовершенствования (TR!)
@@ -3733,6 +3768,8 @@ inhabited -- Населенный *n- (TR!)
 inhale -- вдыхать
 inherent -- неотъемлемый, присущий, свойственный (не Integral)
 inherit -- (у)наследовать
+inheritance -- наследство
+inherited -- Унаследованный (TR!)
 initial -- начальный, первоначальный
 initially -- вначале i-
 initiate -- начинать (не commence)
@@ -3871,6 +3908,7 @@ irritation -- раздражение
 is -- есть (от be)
 isabella -- Изабелла (TR!)
 island -- остров
+isle -- остров(ок)
 iso -- Международная организация по стандартизации (TR!)
 isobel -- Исобел (TR!)
 isolation -- изоляция
@@ -3915,6 +3953,7 @@ jerusalem -- Иерусалим (TR!)
 jessamy -- Джессами (TR!)
 jessie -- Джесси (TR!)
 jest -- шутка; шутить, высмеивать (не joke)
+jet -- струя (воды, пара, газа)
 jew -- Еврей (TR!)
 jewel -- драгоценность
 jeweller -- ювелир
@@ -3965,6 +4004,7 @@ justin -- Джастин (TR!)
 justly -- справедливо
 juvenile -- юноша, подросток *u-
 kalgan -- Калган (TR!)
+kate -- Кейт (TR!)
 kazan -- Казань (TR!)
 keel -- киль
 keen -- страстный
@@ -4003,6 +4043,7 @@ knee -- колено
 knees -- колени !NEW!
 knelt -- стоял на коленях !NEW!
 knew -- знал (от know)
+knife -- нож
 knight -- рыцарь
 knights -- Рыцари (TR!)
 knit -- вязать, связывать
@@ -4098,6 +4139,7 @@ leapt -- прыгал !NEW!
 learn -- узнать, учиться
 learned -- ученый
 learning -- учение
+learnt -- узнал, выученный (от learn)
 lease -- аренда, сдавать в аренду
 leash -- поводок, цепь (не strap)
 least -- наименьший, менее всего
@@ -4179,6 +4221,7 @@ link -- соединять, соединить (link)
 lion -- лев
 lip -- губа
 liquid -- жидкость
+liquor -- крепкий спиртной напиток
 list -- список
 listen -- слушать
 listened -- слушал (от listen)
@@ -4554,6 +4597,7 @@ monument -- памятник (не memorial)
 monuments -- памятники (от monument)
 mood -- настроение
 moon -- луна
+moonlight -- лунный свет !NEW!
 mop -- швабра, подтирать
 moral -- нравственный
 more -- еще, больше
@@ -4614,6 +4658,7 @@ mumble -- бормотание m-
 mummy -- Мумия (TR!)
 munch -- чавкать
 mural -- стенная живопись, фреска
+murder -- убийство
 murderer -- убийца
 murmur -- шорох, шепот m-
 muscle -- мышца
@@ -4796,6 +4841,7 @@ oak -- дуб
 oar -- весло
 oars -- вёсла !NEW!
 oath -- клятва, присяга
+obedience -- послушание
 obedient -- послушный
 obey -- подчиняться, слушаться
 object -- возражать, предмет
@@ -4906,6 +4952,7 @@ organs -- Органы (TR!)
 oriental -- восточный
 origin -- происхождение
 original -- оригинал, первоначальный
+originally -- первоначально
 originate -- возникать, происходить, давать начало, порождать; создавать
 ornament -- украшение, орнамент; украшать
 orphan -- сирота, сиротский
@@ -5090,6 +5137,7 @@ peculiarities -- Особенности (TR!)
 pedal -- педаль
 pedestrian -- пешеход
 peeks -- (он) Посмотрит -s (TR!)
+peel -- чистить, почистить
 peep -- проблеск, выглядывать
 peer -- вглядываться, всматриваться p-
 peered -- Глядел (*e-) (TR!)
@@ -5106,6 +5154,7 @@ penny -- пенни
 pensioner -- пенсионер
 people -- люди
 pepper -- перец
+per -- в
 perceive -- воспринимать, ощущать
 perceived -- Воспринятый (TR!)
 percent -- процент
@@ -5152,6 +5201,7 @@ petrol -- бензин
 pets -- домашние животные (от pet)
 phantom -- Фантом (TR!)
 phase -- фаза, фазировать
+philadelphia -- Филадельфия (TR!)
 philip -- Филип (TR!)
 philosophical -- философский
 philosophy -- философия
@@ -5267,6 +5317,7 @@ pockets -- карманы !NEW!
 pod -- стручок, лущить
 poem -- стихотворение, поэма
 poems -- стихи (от poem)
+poet -- поэт
 poetry -- поэзия, стихи
 point -- точка, пункт, суть дела, указывать, показывать
 pointed -- острый, многозначительный, совершенно очевидный
@@ -5455,6 +5506,7 @@ processes -- Процессы (TR!)
 procession -- процессия
 proclamation -- воззвание, прокламация
 procurator -- Поверенный (TR!)
+procure -- доставать, добывать
 procured -- Обеспеченный (не provided, supplied) (TR!)
 produce -- производить
 produced -- производил (от produce)
@@ -5477,12 +5529,14 @@ programming -- программирование
 programs -- программы (от program)
 progress -- прогресс, успех
 prohibited -- запрещенный (от prohibit)
+project -- проект
 projects -- проекты (от project)
 prolong -- продлевать
 prominent -- выдающийся
 promise -- обещать
 promised -- обещал (от promise)
 promising -- многообещающий -ing
+promotion -- поощрение
 prompt -- проворный, быстрый
 promptly -- быстро
 prone -- склонный
@@ -5635,6 +5689,7 @@ rang -- звонил !NEW!
 range -- ряд, линия, диапазон
 ranger -- скиталец
 rank -- ряд, чин, выстраивать
+ransom -- выкуп, выкупать
 rapid -- быстрый r-
 rapidly -- быстро
 rapt -- восхищенный, похищенный
@@ -5727,6 +5782,7 @@ reflect -- отражать, размышлять
 reflected -- Отраженный (TR!)
 reflecting -- отражающий
 reflection -- отражение, размышление
+reflections -- Отражения (TR!)
 reform -- улучшать, реформа
 refrain -- удерживать, сдерживать, воздерживаться
 refresh -- освежать
@@ -5842,6 +5898,7 @@ requests -- просьбы (от request)
 require -- требовать
 required -- потребованный (не demanded) !NEW!
 requirement -- требование
+requires -- Требует (TR!)
 rescue -- спасение, спасать
 research -- исследование
 resemblance -- сходство
@@ -5975,6 +6032,7 @@ rocky -- скалистый !NEW!
 rod -- прут, жезл, удочка
 rode -- ехать (2 форма) !NEW!
 rogue -- плут, мошенник (не valet)
+role -- роль
 roll -- вращение, список, булочка, вращаться, катить(ся)
 rollback -- Обратная перемотка (TR!)
 roller -- ролик
@@ -6121,6 +6179,7 @@ scheme -- проект
 schemes -- Схемы (TR!)
 scholar -- ученый
 scholars -- Ученые (TR!)
+school -- школа, обучать
 schoolboy -- школьник
 schoolmaster -- учитель
 science -- наука, умение
@@ -6164,6 +6223,7 @@ seated -- Помещенный (TR!)
 seats -- места (от seat)
 seaweed -- Морская водоросль (TR!)
 second -- второй, помощник, секунда
+secondary -- средний, второстепенный
 secondly -- Во-вторых (TR!)
 secret -- секрет
 secretary -- секретарь
@@ -6200,9 +6260,11 @@ send -- отправлять, посылать
 senior -- старший s-
 sensation -- чувство s-
 sense -- чувство, здравый смысл, чувствовать
+senses -- Чувства (TR!)
 sensible -- разумный
 sensitive -- чувствительный
 sensitiveness -- Чувствительность (TR!)
+sent -- отправил, послал, отправленный, посланный (от send)
 sentence -- предложение s-
 sentiment -- настроение
 sentiments -- Чувства (TR!)
@@ -6238,6 +6300,7 @@ seventy -- семьдесят
 several -- несколько
 severe -- суровый, жестокий (s-)
 severely -- строго (*e-)
+sew -- шить
 sex -- пол
 sexual -- сексуальный
 shabby -- потрепанный, поношенный
@@ -6426,6 +6489,7 @@ sleepy -- сонный, сонливый (не asleep)
 sleeve -- рукав
 sleigh -- сани, салазки
 slender -- тонкий, стройный
+slept -- спал (от sleep)
 slice -- ломоть
 slid -- скользить (не slip) !NEW!
 slide -- скользить
@@ -6480,6 +6544,8 @@ snorted -- Фыркал (не от слова sniff) (TR!)
 snow -- снег, падать (о снеге)
 snowman -- снежная баба
 snuff -- Нюхнуть (TR!)
+so -- так, таким образом, итак
+soap -- мыло
 sob -- рыдание
 sobbing -- Рыдание (TR!)
 sober -- трезвый
@@ -6493,6 +6559,7 @@ sofa -- диван
 soft -- мягкий, тихий (не calm)
 soften -- смягчать(ся)
 softened -- Смягченный (TR!)
+softly -- мягко, нежно
 software -- Программное обеспечение (TR!)
 soil -- почва
 sold -- продавал, проданный (от sell)
@@ -6544,6 +6611,7 @@ souvenirs -- сувениры (от souvenir)
 sovereign -- суверенный
 soviet -- Советский (TR!)
 sow -- сеять
+space -- пространство, место, космос
 spacious -- просторный, обширный
 spade -- лопата, заступ
 spare -- уделять, лишний, запасный
@@ -6570,6 +6638,7 @@ specifically -- специфически
 specification -- Спецификация (TR!)
 specified -- Указанный (TR!)
 specify -- точно определять, устанавливать, предписывать; детально излагать
+specimen -- образец
 specimens -- Экземпляры, образцы (TR!)
 spectacle -- зрелище
 spectacles -- очки
@@ -6969,6 +7038,7 @@ syringe -- шприц
 system -- система
 systems -- Системы (TR!)
 tab -- петелька
+table -- стол, таблица, расписание
 tables -- Столы (TR!)
 tablets -- таблетки (от tablet)
 tack -- линия, курс (t-)
@@ -7020,6 +7090,7 @@ teddy -- Тэдди (TR!)
 tedious -- скучный, утомительный **d****
 teenagers -- подростки (от teenager)
 teeth -- зубы
+telegram -- телеграмма
 telegraph -- телеграф
 telephone -- телефон, звонить по телефону
 telescope -- телескоп
@@ -7079,6 +7150,7 @@ them -- их (на вопрос "кого?", "что?")
 theme -- тема (не topic)
 themselves -- себя, себе
 then -- тогда, потом, затем
+thence -- Отсюда (TR!)
 theory -- теория
 there -- там, туда, вот
 thereafter -- после этого; впоследствии (не afterwards) !NEW!
@@ -7202,6 +7274,7 @@ tolerate -- терпеть
 tomato -- томат, помидор
 tomatoes -- помидоры (от tomato)
 tomb -- могила, гробница
+tome -- Том (TR!)
 tommy -- Томми (TR!)
 tomorrow -- завтра, назавтра
 ton -- тонна
@@ -7300,6 +7373,7 @@ treasury -- сокровищница
 treat -- удовольствие, лечить, относиться
 treated -- лечил (от treat)
 treatment -- обращение, обработка
+tree -- дерево (tree)
 trek -- поход, переход (не pass)
 tremble -- дрожать, дрожь
 tremendous -- громадный, значительный t-
@@ -7511,6 +7585,7 @@ vacation -- отпуск, каникулы
 vaccination -- прививка
 vague -- неопределенный, смутный
 vaguely -- Неопределенно (TR!)
+vain -- напрасный, тщетный
 vale -- прощание
 valiant -- храбрый, мужественный (не от слова brave)
 valid -- правильный v-
@@ -7596,6 +7671,7 @@ villager -- сельский житель
 villain -- злодей, негодяй
 vine -- виноградная лоза
 vinegar -- уксус
+violence -- сила, неистовство, насилие
 violent -- яростный v-
 violently -- неистово v-
 violet -- фиолетовый (не purple)
@@ -7720,6 +7796,7 @@ weed -- сорняк, полоть
 week -- неделя
 weekend -- выходные
 weekly -- еженедельный, еженедельно
+weep -- плакать
 weeping -- Плач *e-ing (TR!)
 weigh -- взвешивать, весить
 weight -- вес, тяжесть, груз
@@ -7834,6 +7911,7 @@ woman -- женщина
 women -- женщины (от woman)
 won -- победил, побежденный (от win)
 wonder -- удивляться
+wonderful -- замечательный, чудесный
 wonderfully -- Чудесно w- TR!)
 wondering -- удивляющийся, интересующийся (-ing) !NEW!
 wood -- лес, древесина, дрова
@@ -7841,6 +7919,7 @@ wooden -- деревянный
 woodland -- лесистая местность
 woodlands -- Лесистые местности (TR!)
 wool -- шерсть
+woollen -- шерстяной
 word -- слово, обещание
 wording -- редакция, форма выражения, формулировка -ing
 words -- слова (от word)
@@ -7915,3 +7994,7 @@ yuri -- Юрий (TR!)
 zeal -- усердие, рвение
 zero -- ноль
 zigzag -- Зигзаг (TR!)
+zinc -- цинк, цинковый, оцинковывать
+zone -- зона
+zoo -- зоопарк
+zoological -- Зоологический (TR!)
