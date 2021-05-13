@@ -193,3 +193,9 @@ input[type=radio] {
   padding: 3px 0;
   cursor: pointer;
 }
+
+.article p{
+  font-size: 14pt;
+  color: rgb(238, 238, 238);
+  /* background-color: beige; */
+}
